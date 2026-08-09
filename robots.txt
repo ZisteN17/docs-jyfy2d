@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-ks2ta5.indocuansite.online/sitemap.xml
